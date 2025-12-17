@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+ashuk-io;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Amazing+Things+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+ashuk-io;Welcome+to+my+GitHub+Profile!;Aspiring+Software+Developer+%7C+AI/ML+Engineer;Building+Amazing+Things+with+Code!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **exciting web projects**
-- 🌱 I'm currently learning **Cloud Technologies & DevOps**
-- 💬 Ask me about **Web Development, APIs, and Cloud**
+- 🔭 I'm currently working on **AI/ML projects and software development**
+- 🌱 I'm currently learning **Machine Learning, Deep Learning & AI Technologies**
+- 💬 Ask me about **AI/ML, Software Development, and Data Science**
 - 📫 How to reach me: **hello@ashuk.io**
 - ⚡ Fun fact: **I debug with console.log() 😄**
 
@@ -40,6 +40,16 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
