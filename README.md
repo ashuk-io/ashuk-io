@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+ashuk-io;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Amazing+Things+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+ashuk-io;Aspiring+AI%2FML+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **exciting web projects**
+- 🔭 I'm currently working on **exciting AI/ML projects**
 - 🌱 I'm currently learning **Cloud Technologies & DevOps**
-- 💬 Ask me about **Web Development, APIs, and Cloud**
+- 💬 Ask me about **AI/ML, Data Science, and Cloud**
 - 📫 How to reach me: **hello@ashuk.io**
 - ⚡ Fun fact: **I debug with console.log() 😄**
 
