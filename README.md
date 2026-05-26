@@ -45,26 +45,26 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashuk-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuk-io&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuk-io&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuk-io&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+</p>
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ashuk-io&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+</p>
 
 <br/>
 
