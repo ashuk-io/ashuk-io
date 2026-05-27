@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+ashuk-io;Aspiring+developer+and+lifelong+learner."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Ashutosh;Aspiring+developer+and+lifelong+learner."/>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I'm currently learning **Python, C, HTML, CSS, and Flask**
+- 🌱 Skilled in **Python, C, HTML, CSS, and Flask**
 - 💬 Ask me about **Python, C, HTML, CSS, Flask, or git/GitHub**
 - 📫 How to reach me: **hello@ashuk.io**
 
