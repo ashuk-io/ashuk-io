@@ -1,101 +1,135 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Ashutosh;Aspiring+developer+and+lifelong+learner."/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366f1&height=200&section=header&text=Ashutosh%20Kumar&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Student&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Header" />
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI+%2F+ML+Student;Product+Engineering" alt="Typing SVG" /></a>
+
+  <br />
+
+  <a href="#"><img src="https://img.shields.io/badge/Degree-BCA_Computer_Science-4c1d95?style=for-the-badge&logo=academia&logoColor=white" alt="Academic" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Ghaziabad,_India-5b21b6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+  <a href="https://github.com/ashuk-io"><img src="https://img.shields.io/badge/Portfolio-ashuk.io-6d28d9?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ashutoshkumar"><img src="https://img.shields.io/badge/LinkedIn-ashutoshkumar-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@ashudev.com"><img src="https://img.shields.io/badge/Email-contact@ashudev.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ashuk-io"><img src="https://img.shields.io/badge/GitHub-ashuk--io-a78bfa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=ashuk-io&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ashuk-io?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ashuk-io?label=Stars&style=flat-square&color=8b5cf6" alt="Stars" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashuk-io&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ashuk-io?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</div>
-
-<br/>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 👨‍💻 About Me
-
-- 🌱 Skilled in **Python, C, HTML, CSS, and Flask**
-- 💬 Ask me about **Python, C, HTML, CSS, Flask, or git/GitHub**
-- 📫 How to reach me: **hello@ashuk.io**
-
-<br/>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🛠️ Tools & Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashuk-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuk-io&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuk-io&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuk-io&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashuk-io&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<br/>
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br/>
-
-## 🤝 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashuk-io)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashuk_io)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://ashuk.io](https://github.com/ashuk-io/My-Portfolio))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshjpis.ncs@gmail.com)
-
-</div>
-
-<br/>
-
-
 
 ---
 
-<div align="center">
-  
-### 💖 Show some love by starring some repositories!
+## ❖ About
 
-**⭐ From [ashuk-io](https://github.com/ashuk-io)**
+AI/ML student with a proven aptitude and deep passion for technology. I believe in "learning by doing" and am dedicated to consistent practice. I am a strategic and proactive learner, always looking for a challenge. I am eager to connect with industry professionals and am actively seeking internship opportunities where I can contribute to real-world projects and accelerate my growth.
+
+**Open To:** AI/ML Engineering Intern Roles, and impactful Open Source contributions.
+
+---
+
+## ❖ Tech Stack
+
+<div align="center">
+
+### Languages
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" alt="Languages" /></a>
+
+### Frontend
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Frontend" /></a>
+
+### Backend
+<a href="#"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Backend" /></a>
 
 </div>
+
+---
+
+## ❖ AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Data Engineering** | Basic | Pandas, NumPy, Python |
+
+---
+
+## ❖ Achievements
+
+<div align="center">
+
+| Recognition | Details |
+| :---: | :--- |
+| 🥇 **Hackathon Selection** | Top 50 Team in Internal Smart India Hackathon (SIH) 2025, Sharda University. |
+
+</div>
+
+---
+
+## ❖ Certifications
+
+<p align="left">
+  <b>Programming & Development:</b><br>
+  <img src="https://img.shields.io/badge/Python_Bootcamp-CodeWithHarry-4c1d95?style=for-the-badge&logo=python&logoColor=white" alt="Python Bootcamp" />
+  <img src="https://img.shields.io/badge/Learning_Python-LinkedIn-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Python" />
+</p>
+<p align="left">
+  <b>Tools & Version Control:</b><br>
+  <img src="https://img.shields.io/badge/GitHub_Tutorial-Great_Learning-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="Great Learning GitHub" />
+</p>
+
+---
+
+## ❖ Coding Profiles
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Elite_Solver-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Top_1%25-5b21b6?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Stars-6d28d9?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</div>
+
+---
+
+## ❖ GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashuk-io&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuk-io&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuk-io&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+## ❖ Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuk-io&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+## ❖ Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashuk-io/ashuk-io/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashuk-io/ashuk-io/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashuk-io/ashuk-io/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+## ❖ Current Focus
+
+```yaml
+Current_Focus:
+  Learning:
+    - "C++ Data Structures and Algorithms"
+    - "AI/ML and Deep Learning"
+  Exploring:
+    - "Deployment & Optimization"
+  Open_To:
+    - "Software Engineer / AI Intern Roles"
+    - "Open Source Collaborations"
