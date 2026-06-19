@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366f1&height=200&section=header&text=Ashutosh%20Kumar&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Specialist&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366f1&height=200&section=header&text=Ashutosh%20Kumar&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Student&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI+%2F+ML+Student;Product+Engineering" alt="Typing SVG" /></a>
 
   <br />
 
-  <a href="#"><img src="https://img.shields.io/badge/PersuingDegree-Computer_Science-4c1d95?style=for-the-badge&logo=academia&logoColor=white" alt="Academic" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Degree-BCA_Computer_Science-4c1d95?style=for-the-badge&logo=academia&logoColor=white" alt="Academic" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-Ghaziabad,_India-5b21b6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/github.com/ashuk-io-6d28d9?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/ashuk-io"><img src="https://img.shields.io/badge/Portfolio-ashuk.io-6d28d9?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/ashutoshkumar"><img src="https://img.shields.io/badge/LinkedIn-ashutoshkumar-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:contact@ashudev.com"><img src="https://img.shields.io/badge/Email-contact@ashudev.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ashuk-io"><img src="https://img.shields.io/badge/GitHub-ashuk--io-a78bfa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -23,9 +23,9 @@
 
 ## ❖ About
 
-I am a results-driven **Software Engineer** specializing in the intersection of **Artificial Intelligence** and **Full Stack Development**. With a strong foundation in high-performance computing systems and distributed architectures, I build scalable enterprise solutions that prioritize performance, security, and exceptional user experience. My engineering philosophy revolves around a **Product Engineering mindset**—bridging the gap between complex backend algorithms and highly intuitive frontend interfaces.
+AI/ML student with a proven aptitude and deep passion for technology. I believe in "learning by doing" and am dedicated to consistent practice. I am a strategic and proactive learner, always looking for a challenge. I am eager to connect with industry professionals and am actively seeking internship opportunities where I can contribute to real-world projects and accelerate my growth.
 
-**Open To:** Full-Time Software Engineering, AI/ML Engineering roles, and impactful Open Source contributions.
+**Open To:** AI/ML Engineering Intern Roles, and impactful Open Source contributions.
 
 ---
 
@@ -37,10 +37,12 @@ I am a results-driven **Software Engineer** specializing in the intersection of 
 <a href="#"><img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" alt="Languages" /></a>
 
 ### Frontend
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,wasm&theme=dark" alt="Frontend" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Frontend" /></a>
 
 ### Backend
 <a href="#"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Backend" /></a>
+
+</div>
 
 ---
 
@@ -48,7 +50,7 @@ I am a results-driven **Software Engineer** specializing in the intersection of 
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Data Engineering** | Basic |Pandas, NumPy, Python |
+| **Data Engineering** | Basic | Pandas, NumPy, Python |
 
 ---
 
@@ -58,7 +60,7 @@ I am a results-driven **Software Engineer** specializing in the intersection of 
 
 | Recognition | Details |
 | :---: | :--- |
-| 🥇 **Hackathon Selection** | One of the top shortlisted teams for SIH-2025 |
+| 🥇 **Hackathon Selection** | Top 50 Team in Internal Smart India Hackathon (SIH) 2025, Sharda University. |
 
 </div>
 
@@ -67,21 +69,13 @@ I am a results-driven **Software Engineer** specializing in the intersection of 
 ## ❖ Certifications
 
 <p align="left">
-  <b>AWS:</b>
-  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-4c1d95?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" />
-  <img src="https://img.shields.io/badge/AWS-Certified_Developer-5b21b6?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Developer" />
+  <b>Programming & Development:</b><br>
+  <img src="https://img.shields.io/badge/Python_Bootcamp-CodeWithHarry-4c1d95?style=for-the-badge&logo=python&logoColor=white" alt="Python Bootcamp" />
+  <img src="https://img.shields.io/badge/Learning_Python-LinkedIn-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Python" />
 </p>
 <p align="left">
-  <b>Oracle:</b>
-  <img src="https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE-6d28d9?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java" />
-</p>
-<p align="left">
-  <b>NPTEL:</b>
-  <img src="https://img.shields.io/badge/NPTEL-Data_Structures_&_Algorithms-7c3aed?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL DSA" />
-</p>
-<p align="left">
-  <b>Cisco:</b>
-  <img src="https://img.shields.io/badge/Cisco-CCNA_Routing_&_Switching-8b5cf6?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+  <b>Tools & Version Control:</b><br>
+  <img src="https://img.shields.io/badge/GitHub_Tutorial-Great_Learning-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="Great Learning GitHub" />
 </p>
 
 ---
@@ -107,26 +101,10 @@ I am a results-driven **Software Engineer** specializing in the intersection of 
 
 ---
 
-## ❖ GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashuk-io&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
 ## ❖ Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuk-io&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-## ❖ Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ashuk-io/ashuk-io/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
@@ -136,12 +114,10 @@ I am a results-driven **Software Engineer** specializing in the intersection of 
 ```yaml
 Current_Focus:
   Learning:
-    - "C++ Data Structurs and Algorithms"
+    - "C++ Data Structures and Algorithms"
     - "AI/ML and Deep Learning"
   Exploring:
     - "Deployment & Optimization"
   Open_To:
     - "Software Engineer / AI Intern Roles"
     - "Open Source Collaborations"
-
-
