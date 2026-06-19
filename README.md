@@ -83,9 +83,8 @@ AI/ML student with a proven aptitude and deep passion for technology. I believe 
 ## ❖ Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Elite_Solver-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Top_1%25-5b21b6?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Stars-6d28d9?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-3_Stars-6d28d9?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </div>
 
 ---
